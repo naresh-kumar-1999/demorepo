@@ -1,1 +1,2 @@
 This line from a.txt file
+bye from a.txt file
